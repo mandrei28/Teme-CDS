@@ -1,0 +1,325 @@
+Philosopher-0 is thinking
+Philosopher-1 is thinking
+Philosopher-2 is thinking
+Philosopher-3 is thinking
+Philosopher-4 is thinking
+Philosopher-5 is thinking
+Philosopher-6 is thinking
+Philosopher-7 is thinking
+Philosopher-8 is thinking
+Philosopher-9 is thinking
+Philosopher-2 picked up left fork-2
+Philosopher-3 picked up left fork-3
+Philosopher-5 picked up left fork-5
+Philosopher-1 picked up left fork-1
+Philosopher-0 picked up left fork-0
+Philosopher-4 picked up left fork-4
+Philosopher-0 put down left fork-0
+Philosopher-1 picked up right fork-2
+Philosopher-5 picked up right fork-6
+Philosopher-5 is eating
+Philosopher-3 put down left fork-3
+Philosopher-2 put down left fork-2
+Philosopher-3 is thinking
+Philosopher-1 is eating
+Philosopher-0 is thinking
+Philosopher-4 put down left fork-4
+Philosopher-2 is thinking
+Philosopher-4 is thinking
+Philosopher-7 picked up left fork-7
+Philosopher-8 picked up left fork-8
+Philosopher-9 picked up left fork-9
+Philosopher-6 is thinking
+Philosopher-9 picked up right fork-0
+Philosopher-9 is eating
+Philosopher-8 put down left fork-8
+Philosopher-7 put down left fork-7
+Philosopher-8 is thinking
+Philosopher-7 is thinking
+Philosopher-2 is thinking
+Philosopher-0 is thinking
+Philosopher-5 put down right fork-6
+Philosopher-1 put down right fork-2
+Philosopher-4 picked up left fork-4
+Philosopher-3 picked up left fork-3
+Philosopher-4 picked up right fork-5
+Philosopher-4 is eating
+Philosopher-1 put down left fork-1
+Philosopher-5 put down left fork-5
+Philosopher-1 is thinking
+Philosopher-3 put down left fork-3
+Philosopher-5 is thinking
+Philosopher-3 is thinking
+Philosopher-9 put down right fork-0
+Philosopher-6 picked up left fork-6
+Philosopher-7 picked up left fork-7
+Philosopher-8 picked up left fork-8
+Philosopher-7 put down left fork-7
+Philosopher-6 put down left fork-6
+Philosopher-6 is thinking
+Philosopher-9 put down left fork-9
+Philosopher-7 is thinking
+Philosopher-8 picked up right fork-9
+Philosopher-8 is eating
+Philosopher-9 is thinking
+Philosopher-5 is thinking
+Philosopher-2 picked up left fork-2
+Philosopher-3 picked up left fork-3
+Philosopher-1 picked up left fork-1
+Philosopher-0 picked up left fork-0
+Philosopher-4 put down right fork-5
+Philosopher-0 put down left fork-0
+Philosopher-0 is thinking
+Philosopher-1 picked up right fork-2
+Philosopher-3 put down left fork-3
+Philosopher-3 is thinking
+Philosopher-2 put down left fork-2
+Philosopher-2 is thinking
+Philosopher-1 is eating
+Philosopher-4 put down left fork-4
+Philosopher-4 is thinking
+Philosopher-8 put down right fork-9
+Philosopher-7 picked up left fork-7
+Philosopher-6 picked up left fork-6
+Philosopher-6 put down left fork-6
+Philosopher-6 is thinking
+Philosopher-9 picked up left fork-9
+Philosopher-7 picked up right fork-8
+Philosopher-7 is eating
+Philosopher-8 put down left fork-8
+Philosopher-8 is thinking
+Philosopher-9 picked up right fork-0
+Philosopher-9 is eating
+Philosopher-2 is thinking
+Philosopher-5 picked up left fork-5
+Philosopher-1 put down right fork-2
+Philosopher-3 picked up left fork-3
+Philosopher-0 is thinking
+Philosopher-4 picked up left fork-4
+Philosopher-3 put down left fork-3
+Philosopher-1 put down left fork-1
+Philosopher-1 is thinking
+Philosopher-5 picked up right fork-6
+Philosopher-3 is thinking
+Philosopher-4 put down left fork-4
+Philosopher-5 is eating
+Philosopher-4 is thinking
+Philosopher-8 is thinking
+Philosopher-7 put down right fork-8
+Philosopher-6 is thinking
+Philosopher-9 put down right fork-0
+Philosopher-7 put down left fork-7
+Philosopher-9 put down left fork-9
+Philosopher-9 is thinking
+Philosopher-7 is thinking
+Philosopher-1 picked up left fork-1
+Philosopher-2 picked up left fork-2
+Philosopher-5 put down right fork-6
+Philosopher-4 picked up left fork-4
+Philosopher-0 picked up left fork-0
+Philosopher-3 picked up left fork-3
+Philosopher-0 picked up right fork-1
+Philosopher-0 is eating
+Philosopher-4 picked up right fork-5
+Philosopher-5 put down left fork-5
+Philosopher-5 is thinking
+Philosopher-2 put down left fork-2
+Philosopher-2 is thinking
+Philosopher-1 put down left fork-1
+Philosopher-1 is thinking
+Philosopher-4 is eating
+Philosopher-3 put down left fork-3
+Philosopher-3 is thinking
+Philosopher-9 picked up left fork-9
+Philosopher-8 picked up left fork-8
+Philosopher-6 picked up left fork-6
+Philosopher-7 picked up left fork-7
+Philosopher-6 put down left fork-6
+Philosopher-8 picked up right fork-9
+Philosopher-8 is eating
+Philosopher-9 put down left fork-9
+Philosopher-6 is thinking
+Philosopher-7 put down left fork-7
+Philosopher-9 is thinking
+Philosopher-7 is thinking
+Philosopher-3 picked up left fork-3
+Philosopher-1 picked up left fork-1
+Philosopher-1 put down left fork-1
+Philosopher-1 is thinking
+Philosopher-2 picked up left fork-2
+Philosopher-4 put down right fork-5
+Philosopher-0 put down right fork-1
+Philosopher-5 picked up left fork-5
+Philosopher-0 put down left fork-0
+Philosopher-4 put down left fork-4
+Philosopher-2 picked up right fork-3
+Philosopher-2 is eating
+Philosopher-3 put down left fork-3
+Philosopher-4 is thinking
+Philosopher-5 picked up right fork-6
+Philosopher-5 is eating
+Philosopher-3 is thinking
+Philosopher-9 is thinking
+Philosopher-7 picked up left fork-7
+Philosopher-8 put down right fork-9
+Philosopher-6 is thinking
+Philosopher-8 put down left fork-8
+Philosopher-8 is thinking
+Philosopher-7 put down left fork-7
+Philosopher-7 is thinking
+Philosopher-3 is thinking
+Philosopher-5 put down right fork-6
+Philosopher-2 put down right fork-3
+Philosopher-1 picked up left fork-1
+Philosopher-4 picked up left fork-4
+Philosopher-1 picked up right fork-2
+Philosopher-1 is eating
+Philosopher-2 put down left fork-2
+Philosopher-5 put down left fork-5
+Philosopher-5 is thinking
+Philosopher-2 is thinking
+Philosopher-4 picked up right fork-5
+Philosopher-4 is eating
+Philosopher-6 picked up left fork-6
+Philosopher-7 picked up left fork-7
+Philosopher-9 picked up left fork-9
+Philosopher-8 picked up left fork-8
+Philosopher-9 picked up right fork-0
+Philosopher-9 is eating
+Philosopher-7 put down left fork-7
+Philosopher-7 is thinking
+Philosopher-6 put down left fork-6
+Philosopher-6 is thinking
+Philosopher-8 put down left fork-8
+Philosopher-8 is thinking
+Philosopher-2 is thinking
+Philosopher-1 put down right fork-2
+Philosopher-3 picked up left fork-3
+Philosopher-5 is thinking
+Philosopher-4 put down right fork-5
+Philosopher-3 put down left fork-3
+Philosopher-1 put down left fork-1
+Philosopher-3 is thinking
+Philosopher-4 put down left fork-4
+Philosopher-4 is thinking
+Philosopher-7 picked up left fork-7
+Philosopher-7 put down left fork-7
+Philosopher-7 is thinking
+Philosopher-8 picked up left fork-8
+Philosopher-6 picked up left fork-6
+Philosopher-9 put down right fork-0
+Philosopher-6 picked up right fork-7
+Philosopher-6 is eating
+Philosopher-8 put down left fork-8
+Philosopher-8 is thinking
+Philosopher-9 put down left fork-9
+Philosopher-9 is thinking
+Philosopher-2 picked up left fork-2
+Philosopher-3 picked up left fork-3
+Philosopher-5 picked up left fork-5
+Philosopher-4 picked up left fork-4
+Philosopher-5 put down left fork-5
+Philosopher-5 is thinking
+Philosopher-3 put down left fork-3
+Philosopher-3 is thinking
+Philosopher-2 put down left fork-2
+Philosopher-4 picked up right fork-5
+Philosopher-4 is eating
+Philosopher-9 picked up left fork-9
+Philosopher-9 picked up right fork-0
+Philosopher-9 is eating
+Philosopher-7 is thinking
+Philosopher-6 put down right fork-7
+Philosopher-8 picked up left fork-8
+Philosopher-6 put down left fork-6
+Philosopher-6 is thinking
+Philosopher-8 put down left fork-8
+Philosopher-8 is thinking
+Philosopher-5 is thinking
+Philosopher-4 put down right fork-5
+Philosopher-3 picked up left fork-3
+Philosopher-4 put down left fork-4
+Philosopher-4 is thinking
+Philosopher-3 picked up right fork-4
+Philosopher-3 is eating
+Philosopher-8 picked up left fork-8
+Philosopher-6 picked up left fork-6
+Philosopher-9 put down right fork-0
+Philosopher-9 put down left fork-9
+Philosopher-9 is thinking
+Philosopher-6 put down left fork-6
+Philosopher-6 is thinking
+Philosopher-7 picked up left fork-7
+Philosopher-7 picked up right fork-8
+Philosopher-7 is eating
+Philosopher-8 put down left fork-8
+Philosopher-8 is thinking
+Philosopher-3 put down right fork-4
+Philosopher-5 picked up left fork-5
+Philosopher-4 picked up left fork-4
+Philosopher-5 picked up right fork-6
+Philosopher-5 is eating
+Philosopher-3 put down left fork-3
+Philosopher-4 put down left fork-4
+Philosopher-4 is thinking
+Philosopher-8 is thinking
+Philosopher-9 picked up left fork-9
+Philosopher-9 picked up right fork-0
+Philosopher-9 is eating
+Philosopher-6 is thinking
+Philosopher-7 put down right fork-8
+Philosopher-7 put down left fork-7
+Philosopher-7 is thinking
+Philosopher-4 picked up left fork-4
+Philosopher-5 put down right fork-6
+Philosopher-4 put down left fork-4
+Philosopher-5 put down left fork-5
+Philosopher-5 is thinking
+Philosopher-9 put down right fork-0
+Philosopher-9 put down left fork-9
+Philosopher-9 is thinking
+Philosopher-7 picked up left fork-7
+Philosopher-8 picked up left fork-8
+Philosopher-6 picked up left fork-6
+Philosopher-8 picked up right fork-9
+Philosopher-8 is eating
+Philosopher-7 put down left fork-7
+Philosopher-7 is thinking
+Philosopher-6 picked up right fork-7
+Philosopher-6 is eating
+Philosopher-5 picked up left fork-5
+Philosopher-5 put down left fork-5
+Philosopher-6 put down right fork-7
+Philosopher-9 picked up left fork-9
+Philosopher-9 picked up right fork-0
+Philosopher-9 is eating
+Philosopher-8 put down right fork-9
+Philosopher-7 picked up left fork-7
+Philosopher-8 put down left fork-8
+Philosopher-8 is thinking
+Philosopher-6 put down left fork-6
+Philosopher-7 picked up right fork-8
+Philosopher-7 is eating
+Philosopher-8 is thinking
+Philosopher-7 put down right fork-8
+Philosopher-7 put down left fork-7
+Philosopher-9 put down right fork-0
+Philosopher-9 put down left fork-9
+Philosopher-9 is thinking
+Philosopher-9 picked up left fork-9
+Philosopher-8 picked up left fork-8
+Philosopher-9 picked up right fork-0
+Philosopher-8 put down left fork-8
+Philosopher-9 is eating
+Philosopher-9 put down right fork-0
+Philosopher-9 put down left fork-9
+Philosopher-0 has eat 1
+Philosopher-1 has eat 3
+Philosopher-2 has eat 1
+Philosopher-3 has eat 1
+Philosopher-4 has eat 4
+Philosopher-5 has eat 4
+Philosopher-6 has eat 2
+Philosopher-7 has eat 3
+Philosopher-8 has eat 3
+Philosopher-9 has eat 7

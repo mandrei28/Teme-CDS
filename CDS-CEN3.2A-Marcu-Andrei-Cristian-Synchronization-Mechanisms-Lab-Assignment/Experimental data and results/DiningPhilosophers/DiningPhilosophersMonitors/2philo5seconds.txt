@@ -1,0 +1,30 @@
+Philosopher-1 is thinking
+Philosopher-0 is thinking
+Philosopher-0 picked up left fork-0
+Philosopher-1 picked up left fork-1
+Philosopher-0 put down left fork-0
+Philosopher-0 is thinking
+Philosopher-1 put down left fork-1
+Philosopher-1 is thinking
+Philosopher-0 picked up left fork-0
+Philosopher-1 picked up left fork-1
+Philosopher-1 put down left fork-1
+Philosopher-0 put down left fork-0
+Philosopher-0 is thinking
+Philosopher-1 is thinking
+Philosopher-1 picked up left fork-1
+Philosopher-0 picked up left fork-0
+Philosopher-1 put down left fork-1
+Philosopher-0 put down left fork-0
+Philosopher-1 is thinking
+Philosopher-0 is thinking
+Philosopher-0 picked up left fork-0
+Philosopher-1 picked up left fork-1
+Philosopher-0 put down left fork-0
+Philosopher-0 is thinking
+Philosopher-1 picked up right fork-0
+Philosopher-1 is eating
+Philosopher-1 put down right fork-0
+Philosopher-1 put down left fork-1
+Philosopher-0 has eat 0
+Philosopher-1 has eat 1
