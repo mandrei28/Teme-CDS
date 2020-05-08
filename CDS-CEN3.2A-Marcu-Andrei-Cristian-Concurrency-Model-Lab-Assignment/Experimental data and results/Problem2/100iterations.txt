@@ -1,0 +1,1 @@
+After 100 iterations from each thread n will have the following value: 200

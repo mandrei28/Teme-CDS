@@ -1,0 +1,1 @@
+After 10 iterations from each thread n will have the following value: 20

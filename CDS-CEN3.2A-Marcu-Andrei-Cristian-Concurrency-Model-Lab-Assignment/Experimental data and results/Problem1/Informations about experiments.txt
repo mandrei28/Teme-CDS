@@ -1,0 +1,5 @@
+The title of each txt file has the following format: n, the value of n, k, the value of k.
+ex: n989534k87 means n = 989534 and k = 87
+Each of those inputs it's randomly generated
+Each file contains the results of both methods
+The number of elements, threads and execution time is placed at the beggining of each txt file for method 1 and at the end of the file for method2
