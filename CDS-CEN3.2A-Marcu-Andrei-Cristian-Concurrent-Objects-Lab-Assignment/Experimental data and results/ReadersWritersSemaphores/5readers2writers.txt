@@ -1,0 +1,140 @@
+Writer1 is writing
+Writer1 has stopped writing
+Writer2 is writing
+Writer2 has stopped writing
+Reader1 is reading
+Reader4 is reading
+Reader3 is reading
+Reader2 is reading
+Reader5 is reading
+Reader2 has stopped reading
+Reader4 has stopped reading
+Reader5 has stopped reading
+Reader3 has stopped reading
+Reader1 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Writer2 is writing
+Writer2 has stopped writing
+Reader2 is reading
+Reader3 is reading
+Reader1 is reading
+Reader5 is reading
+Reader4 is reading
+Reader1 has stopped reading
+Reader4 has stopped reading
+Reader5 has stopped reading
+Reader2 has stopped reading
+Reader3 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Writer2 is writing
+Writer2 has stopped writing
+Reader1 is reading
+Reader5 is reading
+Reader3 is reading
+Reader2 is reading
+Reader4 is reading
+Reader3 has stopped reading
+Reader1 has stopped reading
+Reader5 has stopped reading
+Reader2 has stopped reading
+Reader4 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Writer2 is writing
+Writer2 has stopped writing
+Reader3 is reading
+Reader1 is reading
+Reader2 is reading
+Reader5 is reading
+Reader4 is reading
+Reader3 has stopped reading
+Reader5 has stopped reading
+Reader4 has stopped reading
+Reader2 has stopped reading
+Reader1 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Writer2 is writing
+Writer2 has stopped writing
+Reader3 is reading
+Reader2 is reading
+Reader1 is reading
+Reader4 is reading
+Reader5 is reading
+Reader5 has stopped reading
+Reader3 has stopped reading
+Reader2 has stopped reading
+Reader1 has stopped reading
+Reader4 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Writer2 is writing
+Writer2 has stopped writing
+Reader5 is reading
+Reader3 is reading
+Reader2 is reading
+Reader4 is reading
+Reader1 is reading
+Reader4 has stopped reading
+Reader1 has stopped reading
+Reader3 has stopped reading
+Reader2 has stopped reading
+Reader5 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Writer2 is writing
+Writer2 has stopped writing
+Reader4 is reading
+Reader3 is reading
+Reader1 is reading
+Reader5 is reading
+Reader2 is reading
+Reader1 has stopped reading
+Reader4 has stopped reading
+Reader5 has stopped reading
+Reader2 has stopped reading
+Reader3 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Writer2 is writing
+Writer2 has stopped writing
+Reader1 is reading
+Reader4 is reading
+Reader5 is reading
+Reader3 is reading
+Reader2 is reading
+Reader2 has stopped reading
+Reader1 has stopped reading
+Reader4 has stopped reading
+Reader5 has stopped reading
+Reader3 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Writer2 is writing
+Writer2 has stopped writing
+Reader2 is reading
+Reader4 is reading
+Reader1 is reading
+Reader5 is reading
+Reader3 is reading
+Reader5 has stopped reading
+Reader1 has stopped reading
+Reader3 has stopped reading
+Reader2 has stopped reading
+Reader4 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Writer2 is writing
+Writer2 has stopped writing
+Reader5 is reading
+Reader2 is reading
+Reader3 is reading
+Reader1 is reading
+Reader4 is reading
+Reader2 has stopped reading
+Reader5 has stopped reading
+Reader3 has stopped reading
+Reader4 has stopped reading
+Reader1 has stopped reading

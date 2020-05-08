@@ -1,0 +1,40 @@
+Writer1 is writing
+Writer1 has stopped writing
+Reader1 is reading
+Reader1 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Reader1 is reading
+Reader1 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Reader1 is reading
+Reader1 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Reader1 is reading
+Reader1 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Reader1 is reading
+Reader1 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Reader1 is reading
+Reader1 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Reader1 is reading
+Reader1 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Reader1 is reading
+Reader1 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Reader1 is reading
+Reader1 has stopped reading
+Writer1 is writing
+Writer1 has stopped writing
+Reader1 is reading
+Reader1 has stopped reading
