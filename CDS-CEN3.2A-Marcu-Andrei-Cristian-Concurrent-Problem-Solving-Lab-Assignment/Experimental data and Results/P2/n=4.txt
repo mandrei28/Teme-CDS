@@ -1,0 +1,25 @@
+8 0 5 1 
+5 7 4 6 
+1 6 7 0 
+6 2 9 2 
+
+2 3 4 3 
+4 4 2 2 
+9 4 3 8 
+7 5 4 8 
+
+Math multiplication: 
+68 49 51 72 
+116 89 70 109 
+89 55 37 71 
+115 72 63 110 
+
+Math multiplication duration in seconds : 0
+
+Divide et impera with threads multipliction 
+68 49 51 72 
+116 89 70 109 
+89 55 37 71 
+115 72 63 110 
+
+Divite et impera multiplication duration in seconds : 0

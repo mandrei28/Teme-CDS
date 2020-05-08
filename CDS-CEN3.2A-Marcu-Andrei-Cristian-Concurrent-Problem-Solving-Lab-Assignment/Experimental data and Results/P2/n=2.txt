@@ -1,0 +1,17 @@
+8 4 
+4 6 
+
+9 6 
+9 2 
+
+Math multiplication: 
+108 56 
+90 36 
+
+Math multiplication duration in seconds : 0
+
+Divide et impera with threads multipliction 
+108 56 
+90 36 
+
+Divite et impera multiplication duration in seconds : 0
