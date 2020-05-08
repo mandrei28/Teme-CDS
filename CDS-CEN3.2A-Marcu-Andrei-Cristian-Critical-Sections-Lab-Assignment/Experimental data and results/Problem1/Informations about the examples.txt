@@ -1,0 +1,1 @@
+In all the examples presented before we can observe that p and q doesn't enter the critical section at the same time. That's the problem Dekker algorithm is avoiding.

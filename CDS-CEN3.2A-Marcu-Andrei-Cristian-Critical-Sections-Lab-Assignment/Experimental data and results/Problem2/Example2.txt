@@ -1,0 +1,98 @@
+  0:	proc  - (:root:) creates proc  1 (pq)
+1 pq    5   i<10           
+0 pq    5   i<10           
+0 pq    7   temp = n       
+Process Statement          pq(0):temp 
+1 pq    7   temp = n       0          
+Process Statement          pq(0):temp pq(1):temp 
+0 pq    8   n = (temp+1)   0          0          
+Process Statement          n          pq(0):temp pq(1):temp 
+0 pq    9   i = (i+1)      1          0          0          
+Process Statement          n          pq(0):i    pq(0):temp pq(1):temp 
+1 pq    8   n = (temp+1)   1          1          0          0          
+1 pq    9   i = (i+1)      1          1          0          0          
+Process Statement          n          pq(0):i    pq(0):temp pq(1):i    pq(1):temp 
+1 pq    5   i<10           1          1          0          1          0          
+1 pq    7   temp = n       1          1          0          1          0          
+1 pq    8   n = (temp+1)   1          1          0          1          1          
+0 pq    5   i<10           2          1          0          1          1          
+1 pq    9   i = (i+1)      2          1          0          1          1          
+0 pq    7   temp = n       2          1          0          2          1          
+0 pq    8   n = (temp+1)   2          1          2          2          1          
+0 pq    9   i = (i+1)      3          1          2          2          1          
+0 pq    5   i<10           3          2          2          2          1          
+1 pq    5   i<10           3          2          2          2          1          
+1 pq    7   temp = n       3          2          2          2          1          
+1 pq    8   n = (temp+1)   3          2          2          2          3          
+0 pq    7   temp = n       4          2          2          2          3          
+0 pq    8   n = (temp+1)   4          2          4          2          3          
+0 pq    9   i = (i+1)      5          2          4          2          3          
+1 pq    9   i = (i+1)      5          3          4          2          3          
+1 pq    5   i<10           5          3          4          3          3          
+0 pq    5   i<10           5          3          4          3          3          
+0 pq    7   temp = n       5          3          4          3          3          
+1 pq    7   temp = n       5          3          5          3          3          
+Process Statement          n          pq(0):i    pq(0):temp pq(1):i    pq(1):temp 
+1 pq    8   n = (temp+1)   5          3          5          3          5          
+1 pq    9   i = (i+1)      6          3          5          3          5          
+0 pq    8   n = (temp+1)   6          3          5          4          5          
+0 pq    9   i = (i+1)      6          3          5          4          5          
+1 pq    5   i<10           6          4          5          4          5          
+0 pq    5   i<10           6          4          5          4          5          
+0 pq    7   temp = n       6          4          5          4          5          
+0 pq    8   n = (temp+1)   6          4          6          4          5          
+1 pq    7   temp = n       7          4          6          4          5          
+0 pq    9   i = (i+1)      7          4          6          4          7          
+1 pq    8   n = (temp+1)   7          5          6          4          7          
+1 pq    9   i = (i+1)      8          5          6          4          7          
+1 pq    5   i<10           8          5          6          5          7          
+1 pq    7   temp = n       8          5          6          5          7          
+0 pq    5   i<10           8          5          6          5          8          
+0 pq    7   temp = n       8          5          6          5          8          
+1 pq    8   n = (temp+1)   8          5          8          5          8          
+1 pq    9   i = (i+1)      9          5          8          5          8          
+0 pq    8   n = (temp+1)   9          5          8          6          8          
+1 pq    5   i<10           9          5          8          6          8          
+Process Statement          n          pq(0):i    pq(0):temp pq(1):i    pq(1):temp 
+0 pq    9   i = (i+1)      9          5          8          6          8          
+1 pq    7   temp = n       9          6          8          6          8          
+0 pq    5   i<10           9          6          8          6          9          
+1 pq    8   n = (temp+1)   9          6          8          6          9          
+0 pq    7   temp = n       10         6          8          6          9          
+1 pq    9   i = (i+1)      10         6          10         6          9          
+0 pq    8   n = (temp+1)   10         6          10         7          9          
+1 pq    5   i<10           11         6          10         7          9          
+1 pq    7   temp = n       11         6          10         7          9          
+1 pq    8   n = (temp+1)   11         6          10         7          11         
+0 pq    9   i = (i+1)      12         6          10         7          11         
+1 pq    9   i = (i+1)      12         7          10         7          11         
+1 pq    5   i<10           12         7          10         8          11         
+1 pq    7   temp = n       12         7          10         8          11         
+1 pq    8   n = (temp+1)   12         7          10         8          12         
+1 pq    9   i = (i+1)      13         7          10         8          12         
+0 pq    5   i<10           13         7          10         9          12         
+0 pq    7   temp = n       13         7          10         9          12         
+0 pq    8   n = (temp+1)   13         7          13         9          12         
+1 pq    5   i<10           14         7          13         9          12         
+Process Statement          n          pq(0):i    pq(0):temp pq(1):i    pq(1):temp 
+0 pq    9   i = (i+1)      14         7          13         9          12         
+1 pq    7   temp = n       14         8          13         9          12         
+1 pq    8   n = (temp+1)   14         8          13         9          14         
+0 pq    5   i<10           15         8          13         9          14         
+0 pq    7   temp = n       15         8          13         9          14         
+1 pq    9   i = (i+1)      15         8          15         9          14         
+0 pq    8   n = (temp+1)   15         8          15         10         14         
+1 pq    5   else           16         8          15         10         14         
+0 pq    9   i = (i+1)      16         8          15         10         14         
+n = 16 
+1 pq    12  printf('n = %d 16         9          15         10         14         
+ 97:	proc  1 (pq) terminates
+0 pq    5   i<10           16         9          15         10         14         
+0 pq    7   temp = n       16         9          15         10         14         
+0 pq    8   n = (temp+1)   16         9          16         10         14         
+0 pq    9   i = (i+1)      17         9          16         10         14         
+0 pq    5   else           17         10         16         10         14         
+n = 17 
+0 pq    12  printf('n = %d 17         10         16         10         14         
+106:	proc  0 (pq) terminates
+2 processes created

@@ -1,0 +1,192 @@
+  0:	proc  - (:root:) creates proc  0 (p)
+  0:	proc  - (:root:) creates proc  1 (q)
+0 p     5   wantp = 1      
+Process Statement          wantp      
+0 p     7   else           1          
+1 q     22  wantq = 1      1          
+Process Statement          wantp      wantq      
+1 q     24  wantp          1          1          
+1 q     26  turn==1        1          1          
+1 q     28  wantq = 0      1          1          
+P se afla in sectiunea critica
+0 p     16  printf('P se a 1          0          
+0 p     17  turn = 2       1          0          
+Process Statement          turn       wantp      wantq      
+0 p     18  wantp = 0      2          1          0          
+1 q     28  turn==2        2          0          0          
+0 p     5   wantp = 1      2          0          0          
+1 q     28  wantq = 1      2          1          0          
+1 q     24  wantp          2          1          1          
+0 p     7   wantq          2          1          1          
+1 q     26  else           2          1          1          
+0 p     9   turn==2        2          1          1          
+0 p     11  wantp = 0      2          1          1          
+1 q     24  else           2          0          1          
+Q se afla in sectiunea critica
+1 q     33  printf('Q se a 2          0          1          
+1 q     34  turn = 1       2          0          1          
+1 q     35  wantq = 0      1          0          1          
+1 q     22  wantq = 1      1          0          0          
+0 p     11  turn==1        1          0          1          
+0 p     11  wantp = 1      1          0          1          
+0 p     7   wantq          1          1          1          
+0 p     9   else           1          1          1          
+1 q     24  wantp          1          1          1          
+1 q     26  turn==1        1          1          1          
+Process Statement          turn       wantp      wantq      
+1 q     28  wantq = 0      1          1          1          
+0 p     7   else           1          1          0          
+P se afla in sectiunea critica
+0 p     16  printf('P se a 1          1          0          
+0 p     17  turn = 2       1          1          0          
+0 p     18  wantp = 0      2          1          0          
+1 q     28  turn==2        2          0          0          
+1 q     28  wantq = 1      2          0          0          
+0 p     5   wantp = 1      2          0          1          
+0 p     7   wantq          2          1          1          
+0 p     9   turn==2        2          1          1          
+1 q     24  wantp          2          1          1          
+1 q     26  else           2          1          1          
+0 p     11  wantp = 0      2          1          1          
+1 q     24  else           2          0          1          
+Q se afla in sectiunea critica
+1 q     33  printf('Q se a 2          0          1          
+1 q     34  turn = 1       2          0          1          
+1 q     35  wantq = 0      1          0          1          
+1 q     22  wantq = 1      1          0          0          
+0 p     11  turn==1        1          0          1          
+0 p     11  wantp = 1      1          0          1          
+Process Statement          turn       wantp      wantq      
+1 q     24  wantp          1          1          1          
+0 p     7   wantq          1          1          1          
+0 p     9   else           1          1          1          
+1 q     26  turn==1        1          1          1          
+0 p     7   wantq          1          1          1          
+1 q     28  wantq = 0      1          1          1          
+0 p     9   else           1          1          0          
+0 p     7   else           1          1          0          
+P se afla in sectiunea critica
+0 p     16  printf('P se a 1          1          0          
+0 p     17  turn = 2       1          1          0          
+0 p     18  wantp = 0      2          1          0          
+1 q     28  turn==2        2          0          0          
+1 q     28  wantq = 1      2          0          0          
+0 p     5   wantp = 1      2          0          1          
+0 p     7   wantq          2          1          1          
+1 q     24  wantp          2          1          1          
+0 p     9   turn==2        2          1          1          
+0 p     11  wantp = 0      2          1          1          
+1 q     26  else           2          0          1          
+1 q     24  else           2          0          1          
+Q se afla in sectiunea critica
+Process Statement          turn       wantp      wantq      
+1 q     33  printf('Q se a 2          0          1          
+1 q     34  turn = 1       2          0          1          
+0 p     11  turn==1        1          0          1          
+0 p     11  wantp = 1      1          0          1          
+1 q     35  wantq = 0      1          1          1          
+0 p     7   else           1          1          0          
+1 q     22  wantq = 1      1          1          0          
+P se afla in sectiunea critica
+0 p     16  printf('P se a 1          1          1          
+1 q     24  wantp          1          1          1          
+1 q     26  turn==1        1          1          1          
+0 p     17  turn = 2       1          1          1          
+0 p     18  wantp = 0      2          1          1          
+0 p     5   wantp = 1      2          0          1          
+1 q     28  wantq = 0      2          1          1          
+0 p     7   else           2          1          0          
+1 q     28  turn==2        2          1          0          
+1 q     28  wantq = 1      2          1          0          
+P se afla in sectiunea critica
+0 p     16  printf('P se a 2          1          1          
+0 p     17  turn = 2       2          1          1          
+1 q     24  wantp          2          1          1          
+Process Statement          turn       wantp      wantq      
+1 q     26  else           2          1          1          
+0 p     18  wantp = 0      2          1          1          
+1 q     24  else           2          0          1          
+Q se afla in sectiunea critica
+1 q     33  printf('Q se a 2          0          1          
+1 q     34  turn = 1       2          0          1          
+0 p     5   wantp = 1      1          0          1          
+1 q     35  wantq = 0      1          1          1          
+0 p     7   else           1          1          0          
+1 q     22  wantq = 1      1          1          0          
+P se afla in sectiunea critica
+0 p     16  printf('P se a 1          1          1          
+1 q     24  wantp          1          1          1          
+1 q     26  turn==1        1          1          1          
+1 q     28  wantq = 0      1          1          1          
+0 p     17  turn = 2       1          1          0          
+0 p     18  wantp = 0      2          1          0          
+1 q     28  turn==2        2          0          0          
+1 q     28  wantq = 1      2          0          0          
+0 p     5   wantp = 1      2          0          1          
+0 p     7   wantq          2          1          1          
+1 q     24  wantp          2          1          1          
+Process Statement          turn       wantp      wantq      
+0 p     9   turn==2        2          1          1          
+0 p     11  wantp = 0      2          1          1          
+1 q     26  else           2          0          1          
+1 q     24  else           2          0          1          
+Q se afla in sectiunea critica
+1 q     33  printf('Q se a 2          0          1          
+1 q     34  turn = 1       2          0          1          
+1 q     35  wantq = 0      1          0          1          
+1 q     22  wantq = 1      1          0          0          
+0 p     11  turn==1        1          0          1          
+0 p     11  wantp = 1      1          0          1          
+1 q     24  wantp          1          1          1          
+1 q     26  turn==1        1          1          1          
+1 q     28  wantq = 0      1          1          1          
+0 p     7   else           1          1          0          
+P se afla in sectiunea critica
+0 p     16  printf('P se a 1          1          0          
+0 p     17  turn = 2       1          1          0          
+0 p     18  wantp = 0      2          1          0          
+0 p     5   wantp = 1      2          0          0          
+1 q     28  turn==2        2          1          0          
+1 q     28  wantq = 1      2          1          0          
+Process Statement          turn       wantp      wantq      
+0 p     7   wantq          2          1          1          
+1 q     24  wantp          2          1          1          
+1 q     26  else           2          1          1          
+0 p     9   turn==2        2          1          1          
+0 p     11  wantp = 0      2          1          1          
+1 q     24  else           2          0          1          
+Q se afla in sectiunea critica
+1 q     33  printf('Q se a 2          0          1          
+1 q     34  turn = 1       2          0          1          
+0 p     11  turn==1        1          0          1          
+0 p     11  wantp = 1      1          0          1          
+1 q     35  wantq = 0      1          1          1          
+0 p     7   else           1          1          0          
+P se afla in sectiunea critica
+0 p     16  printf('P se a 1          1          0          
+0 p     17  turn = 2       1          1          0          
+1 q     22  wantq = 1      2          1          0          
+0 p     18  wantp = 0      2          1          1          
+0 p     5   wantp = 1      2          0          1          
+1 q     24  wantp          2          1          1          
+1 q     26  else           2          1          1          
+0 p     7   wantq          2          1          1          
+Process Statement          turn       wantp      wantq      
+0 p     9   turn==2        2          1          1          
+1 q     24  wantp          2          1          1          
+0 p     11  wantp = 0      2          1          1          
+1 q     26  else           2          0          1          
+1 q     24  else           2          0          1          
+Q se afla in sectiunea critica
+1 q     33  printf('Q se a 2          0          1          
+1 q     34  turn = 1       2          0          1          
+0 p     11  turn==1        1          0          1          
+0 p     11  wantp = 1      1          0          1          
+0 p     7   wantq          1          1          1          
+1 q     35  wantq = 0      1          1          1          
+-------------
+depth-limit (-u250 steps) reached
+#processes: 2
+250:	proc  1 (q) dekker.pml:37 (state 19)
+250:	proc  0 (p) dekker.pml:9 (state 8)
+2 processes created

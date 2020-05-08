@@ -1,0 +1,2 @@
+All examples have 2 printfs which print the value of n at the end of thread execution. The last n = x is the value of n.
+All the examples are made with 10 iterations.
